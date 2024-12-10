@@ -28,6 +28,7 @@ This project automates the visualization and animation of weather data using NOA
 ## Requirements
 
 To run this project, you need the following Python libraries installed:
+(all of these can be loaded in google colab)
 
 - `cartopy`
 - `xarray`
