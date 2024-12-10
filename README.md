@@ -15,10 +15,15 @@ This project automates the visualization and animation of weather data using NOA
 - **Custom Visualization**:
   - Adjustable latitude/longitude ranges.
   - Multiple color palettes for plots.
-  - Option to overlay world maps.
+  - Option to overlay world map.
 - **Animation**:
   - Generates time-series animations for the selected variable.
   - Option to save animations as MP4 files.
+ 
+## Use Cases
+
+  - Coding workshops
+  - Open house days
 
 ## Requirements
 
@@ -31,11 +36,4 @@ To run this project, you need the following Python libraries installed:
 - `requests`
 - `IPython`
 - `urllib`
-
-You also need `ffmpeg` installed for saving animations as MP4 files:
-```bash
-# On Ubuntu/Debian
-sudo apt install ffmpeg
-
-# On MacOS using Homebrew
-brew install ffmpeg
+- `ffmpeg` 
