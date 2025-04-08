@@ -25,16 +25,18 @@ This project automates the visualization and animation of weather data using NOA
   - Coding workshops
   - Open house days
 
-## Requirements
+## Workshop Instructions
 
-To run this project, you need the following Python libraries installed:
-(all of these can be loaded in google colab)
+If you want to use these scripts for programming workshops, you can find instructions in English and German in [Workshop Instructions](Instructions).
 
-- `cartopy`
-- `xarray`
-- `matplotlib`
-- `numpy`
-- `requests`
-- `IPython`
-- `urllib`
-- `ffmpeg` 
+## Examples
+
+You can find examples of animations that were created with the scripts in [Examples](examples).
+
+## Support
+
+This project is supported by the UPAS Student Idea Pot 2024.
+
+## Contribute
+
+Feel free to fork this repository and further develop it.
