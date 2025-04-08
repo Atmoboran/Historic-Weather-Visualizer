@@ -36,8 +36,8 @@ This is the interactive, step-by-step edition of the script, where users are gui
 
 ## Instructions
 
-If you want to use these scripts for programming workshops, you can find instructions in English and German in [Workshop Instructions](Instructions).
-If you want to use it for an open house day (Tag der offenen Tür), you can find instructions in English and German in [Workshop Instructions](Instructions).
+If you want to use these scripts for programming workshops, you can find instructions in English and German in [Workshop Instructions](Instructions/Workshop/).
+If you want to use it for an open house day (Tag der offenen Tür), you can find instructions in English and German in [Open House Day Instructions](Instructions/Open House/).
 
 ## Examples
 
