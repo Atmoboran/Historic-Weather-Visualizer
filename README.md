@@ -23,7 +23,8 @@ This project automates the visualization and animation of weather data using NOA
 ## Use Cases
 
   - Coding workshops
-  - Open house days
+  - Computer Science classes in school
+  - Open house days (Tag der offenen Tür)
 
 ## Workshop Instructions
 
@@ -31,11 +32,11 @@ If you want to use these scripts for programming workshops, you can find instruc
 
 ## Examples
 
-You can find examples of animations that were created with the scripts in [Examples](examples).
+You can find examples of animations that were created with the scripts in [Examples](example_plots).
 
 ## Support
 
-This project is supported by the UPAS Student Idea Pot 2024.
+This project is supported by the UPAS Student Idea Pot 2024. Find out more about UPAS: https://www.meteo-upas.de/
 
 ## Contribute
 
